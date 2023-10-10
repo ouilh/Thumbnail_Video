@@ -2,8 +2,8 @@
   "version": 2,
   "builds": [
     {
-      "src": "/index.php",  // Set the source path to the root index.php
-      "use": "@vercel/php"  // Use the PHP builder provided by Vercel
+      "src": "/index.php",  
+      "use": "@vercel/php"  
     }
   ]
 }
