@@ -1,7 +1,9 @@
 {
-  "functions":{
-    "*.php":{
-      "runtime": "vercel-php@0.4.0"
+  "version": 2,
+  "builds": [
+    {
+      "src": "/index.php",  // Set the source path to the root index.php
+      "use": "@vercel/php"  // Use the PHP builder provided by Vercel
     }
-  }
+  ]
 }
