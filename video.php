@@ -55,7 +55,7 @@ include("links.php");
 
 <body>
 <?php
- include("index.html");
+ include("menu.php");
  ?>
 
  
