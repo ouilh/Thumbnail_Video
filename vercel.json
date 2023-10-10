@@ -6,38 +6,38 @@
       "use": "@vercel/php"
     },
     {
-      "src": "/scripts/GetVideoInfo.php",
+      "src": "scripts/GetVideoInfo.php",
       "use": "@vercel/php"
     },
     {
-      "src": "/scripts/download_img.php",
+      "src": "scripts/download_img.php",
       "use": "@vercel/php"
     },
     {
-      "src": "/scripts/download_video.php",
+      "src": "scripts/download_video.php",
       "use": "@vercel/php"
     },
     {
-      "src": "/scripts/thumbnail.php",
+      "src": "scripts/thumbnail.php",
       "use": "@vercel/php"
     }
   ],
   "routes": [
     {
-      "src": "/menu.php",
-      "dest": "/menu.php"
+      "src": "menu.php",
+      "dest": "menu.php"
     },
     {
-      "src": "/video.php",
-      "dest": "/video.php"
+      "src": "video.php",
+      "dest": "video.php"
     },
     {
-      "src": "/links.php",
-      "dest": "/links.php"
+      "src": "links.php",
+      "dest": "links.php"
     },
     {
       "src": "/(.*)",
-      "dest": "/index.php"
+      "dest": "index.php"
     }
   ]
 }
