@@ -39,6 +39,15 @@ if (isset($_POST['submit'])) {
 <html lang="en">
 
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GHTE3Q53KN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GHTE3Q53KN');
+</script>
   <meta name="google-adsense-account" content="ca-pub-2979288114136410">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2979288114136410"
      crossorigin="anonymous"></script>
