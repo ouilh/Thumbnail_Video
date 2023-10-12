@@ -39,6 +39,7 @@ if (isset($_POST['submit'])) {
 <html lang="en">
 
 <head>
+  <meta name="google-adsense-account" content="ca-pub-2979288114136410">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2979288114136410"
      crossorigin="anonymous"></script>
   <meta charset="UTF-8">
