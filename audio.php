@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="icon" type="image/png" href="https://i.ibb.co/k0km76h/Logo.png">
     <title>Coming Soon</title>
     <style>
         body {
