@@ -2,6 +2,7 @@
 <html>
 <head>
 <link rel="icon" type="image/png" href="https://i.ibb.co/k0km76h/Logo.png">
+    <meta name="google-adsense-account" content="ca-pub-2979288114136410">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2979288114136410"
      crossorigin="anonymous"></script>
     <title>YouTube Downloader - Information</title>
