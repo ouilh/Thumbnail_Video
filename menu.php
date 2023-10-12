@@ -48,7 +48,7 @@
                  
                 <li><a href="index.php"><span>Thumbnail Extractor</span></a></li>
                 <li><a href="video.php"><span>Video Extractor</span></a></li>
-                <li><a href="blog.html"><span>Audio Extractor</span></a></li>
+                <li><a href="audio.php"><span>Audio Extractor</span></a></li>
                 <li><a href="info.php"><span>Info</span></a></li>
               </ul>
             </nav>
