@@ -21,7 +21,7 @@
 include("links.php");
 ?>
 
-    <title>Video Thumbnail Extractor</title>
+    <title>Youtube Thumbnail Extractor Image View and Download</title>
 <meta name="keywords" content="thumbnail, mp4, youtube thumbnail">
 
 </head>
