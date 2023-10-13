@@ -39,6 +39,7 @@ if (isset($_POST['submit'])) {
 <html lang="en">
 
 <head>
+   <meta content=" Grab any youtube video mp4 images and save in many sizes and quality, it's currently supported formats: YouTube (360p, 760p)" name="description">
   <title>Youtube video Extractor mp4 View and Download</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Download youtube video mp4 hight quality and thumbnail Images and vimeo videos of all quality. This app lets you to download HD thumbnail images for free. Just enter the URL of the video for which thumbnail needs to be saved. download video mp4 from youtube url of all quality for free ,video extractor">
