@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /video-downloads/
+Disallow: /youtube-extractor/
+Disallow: /download-mp4/
+Disallow: /download-thumbnail/
+Disallow: /thumbnail-extractor/
