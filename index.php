@@ -10,6 +10,7 @@
 
   gtag('config', 'G-GHTE3Q53KN');
 </script>
+<meta content=" Grab any youtube video thumbnails images and save in many sizes and quality, it's currently supported formats: YouTube (HD, SD, 1080p, 4K)" name="description">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="thumbnail extractor Download youtube thumbnail Images and vimeo videos of all quality. This app lets you to download HD thumbnail images for free. Just enter the URL of the video for which thumbnail needs to be saved. download video mp4 from youtube url of all quality">
 <meta name="google-adsense-account" content="ca-pub-2979288114136410">
