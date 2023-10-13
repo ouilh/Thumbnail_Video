@@ -22,6 +22,8 @@ include("links.php");
 ?>
 
     <title>Video Thumbnail Extractor</title>
+<meta name="keywords" content="thumbnail, mp4, youtube thumbnail">
+
 </head>
 <body style="background-color:#0E1117; color:white">
 <?php
