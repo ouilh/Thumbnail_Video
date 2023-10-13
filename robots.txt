@@ -3,4 +3,4 @@ Disallow:
 Disallow: /index.php
 Crawl-delay: 60
 
-Sitemap: https://youtube-thumbnail-grabber.com/sitemap.xml
+Sitemap: https://freethumbnail.com/sitemap.xml
