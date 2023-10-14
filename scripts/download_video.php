@@ -1,3 +1,4 @@
+<?php
 $downloadURL = urldecode($_GET['link']);
 $type = urldecode($_GET['type']);
 $title = urldecode($_GET['title']);
@@ -11,7 +12,7 @@ if (!empty($downloadURL) && substr($downloadURL, 0, 8) === 'https://') {
     
     // Set the Content-Type header to specify the file type
     header("Content-Type: video/mp4");
-
+   
     readfile($downloadURL);
 }
 ?>
