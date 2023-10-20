@@ -24,7 +24,7 @@ include("links.php");
 ?>
 
     <title>Youtube Thumbnail Extractor Image View and Download</title>
-<meta name="keywords" content="thumbnail, mp4, youtube thumbnail,download yt thumbnail, download yt video">
+<meta name="keywords" content="thumbnail, mp4, youtube thumbnail,download yt thumbnail, download yt video,youtube downloader">
 
 </head>
 <body style="background-color:#0E1117; color:white">
