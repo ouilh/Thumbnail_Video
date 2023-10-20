@@ -52,7 +52,7 @@ if (isset($_POST['submit'])) {
 
   gtag('config', 'G-GHTE3Q53KN');
 </script>
-  <meta name="keywords" content="thumbnail, mp4, youtube thumbnail,download yt thumbnail, download yt video">
+  <meta name="keywords" content="thumbnail, mp4, youtube thumbnail,download yt thumbnail, download yt video, youtube downloader">
   <meta name="google-adsense-account" content="ca-pub-2979288114136410">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2979288114136410"
      crossorigin="anonymous"></script>
